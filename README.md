@@ -1,1 +1,1 @@
-# SuperStores-Sales-Dashboard
+Used data analysis techniques, specializing in time series analysis, to provide valuable insights, accurate sales forcasting, and interactive dashboard creation, all using PowerBI software thus, driving business success.
